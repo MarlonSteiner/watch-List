@@ -1,12 +1,11 @@
 # Watch List
 
-Le Wagon Bootcamp - Rails Project
+Create custom movie collections and bookmark your favorites 🎬
 
-<br>
 
 ## Preview
 
-<img width="1218" height="975" alt="Screenshot of watch-list project" src="https://github.com/user-attachments/assets/movie-list-screenshot" />
+![Watch List Screenshot](images/movie-list-screenshot.png)
 
 
 ## What it is
